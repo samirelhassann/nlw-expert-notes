@@ -11,6 +11,8 @@ The application was built during the nlw expert event, provided by [Rocketseat](
 
 ## Demo
 
+![demo-nlw-expert-notes](https://github.com/samirelhassann/nlw-expert-notes/assets/91634008/9e7cf58f-4790-49f7-9900-a5d89b6365d7)
+
 
 ## Additional Libraries
 
@@ -47,8 +49,6 @@ cd nlw-expert-notes
 yarn install
 ```
 
-3. Paste the api key generated on Open Weather
-
 ## Usage
 
 1. Start the application
@@ -56,4 +56,4 @@ yarn install
 yarn dev
 ```
 
-The application will run on route [`http://localhost:5173//`](http://localhost:5173//).
+The application will run on route [`http://localhost:5173/`](http://localhost:5173/).
