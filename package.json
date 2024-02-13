@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && cross-env VITE_BASE=/nlw-export-notes vite build",
-    "preview": "cross-env VITE_BASE=/nlw-export-notes vite preview",
+    "build": "tsc && cross-env VITE_BASE=/nlw-expert-notes vite build",
+    "preview": "cross-env VITE_BASE=/nlw-expert-notes vite preview",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "prepare": "husky install",
     "commit": "git-cz"
